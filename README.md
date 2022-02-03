@@ -25,3 +25,5 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 echo "hello word";
 
 ```
+
+deneme
